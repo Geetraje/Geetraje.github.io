@@ -1,5 +1,1 @@
-# Belly Button Biodiversity Plotly
-
-Bootcamp - Module 14 challenge
-This challenge uses javascript and Plotly to build a dynamic, interactive dashboard to access and visualise data from the Belly Button Biodiversity experiment.
-It uses a drop down menu to select an id corresponding to a test subject, goes on to display a bar chart with the top ten bacterial samples found, the individual's demographic information in another table, a bubble chart that displays each of the sample and a gauge meter that denotes the number of times the individual washes their belly button in a week.
+[Belly Button Biodiversity Plotly.docx](https://github.com/Geetraje/Geetraje.github.io/files/11115167/Belly.Button.Biodiversity.Plotly.docx)
