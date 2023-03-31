@@ -29,9 +29,9 @@ Link to the dashboard - https://geetraje.github.io/StarterCode/
 
 
 # **File locations**
-The parent directory has 2 folders. 
-The data folder holds the samples.json file for reference only.
-The starter folder contains the javascript file - app.js and the index.html file used to build the dashboard.
+- The parent directory has 2 folders, starter and Data. 
+- The data folder holds the samples.json file for reference only.
+- The starter folder contains the javascript file - app.js and the index.html file used to build the dashboard.
 
 
 # **References**
