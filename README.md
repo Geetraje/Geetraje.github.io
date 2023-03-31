@@ -29,7 +29,7 @@ Link to the dashboard - https://geetraje.github.io/StarterCode/
 
 
 # **File locations**
-
+The parent directory has 2 folders. 
 
 
 
